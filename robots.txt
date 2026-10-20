@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faresigroup.github.io/FARESi-GROUP/sitemap.xml
